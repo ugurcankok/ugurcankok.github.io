@@ -12,10 +12,10 @@
     "service-worker.js": "/ugurcankok.github.io/service-worker.js",
     "static/css/main.1ba91923.chunk.css.map": "/ugurcankok.github.io/static/css/main.1ba91923.chunk.css.map",
     "static/js/2.c3229690.chunk.js.LICENSE.txt": "/ugurcankok.github.io/static/js/2.c3229690.chunk.js.LICENSE.txt",
-    "static/media/ai.jpg": "/ugurcankok.github.io/static/media/ai.54597e8b.jpg",
-    "static/media/animation.gif": "/ugurcankok.github.io/static/media/animation.8363a1ed.gif",
-    "static/media/logo.jpeg": "/ugurcankok.github.io/static/media/logo.e7eb9b81.jpeg",
-    "static/media/machine.jpg": "/ugurcankok.github.io/static/media/machine.58751424.jpg"
+    "static/media/ai.jpg": "/ugurcankok.github.io/static/media/ai.jpg",
+    "static/media/animation.gif": "/ugurcankok.github.io/static/media/animation.gif",
+    "static/media/logo.jpeg": "/ugurcankok.github.io/static/media/logo.jpeg",
+    "static/media/machine.jpg": "/ugurcankok.github.io/static/media/machine.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.fa8b9bca.js",
