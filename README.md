@@ -43,3 +43,17 @@ I am a Computer Engineer. I graduated from Aydın Adnan Menderes University Comp
   Göksu Anatolian High School, Mersin, Turkey | 2013 Graduate
   
 ### CERTIFICATIONS
+
+* Introduction to Machine Learning [Certificate](https://drive.google.com/file/d/1sVPzVhdvzlhtdAvQEbtRu2bUbYkHOUYv/view)
+
+* Machine Learning [Certificate](https://drive.google.com/file/d/1hnhz0MGQeogAd-hBhKJQt8XzkPjBqPW7/view)
+
+* Body Language [Certificate](https://drive.google.com/file/d/16NJwcwXskjSBYoq0NrrWhfbryHUM99v8/view)
+
+* Career Management [Certificate](https://drive.google.com/file/d/1k7G8pYloX2F9ug8OoG1Q67-tlTWCu_uW/view)
+
+* Effective Communication [Certificate](https://drive.google.com/file/d/1X4WYq1x2-8wOoO8p8Pc3OmBJccuGaOai/view)
+
+* Entrepreneurship [Certificate](https://drive.google.com/file/d/1uMxJ81tdWHkMmpkk1gZPFQ988vue9zVP/view)
+
+* Leadership [Certificate](https://drive.google.com/file/d/1neSc8SHZ7XfWf0cps3m2l5z3ql-qU50A/view)
