@@ -12,7 +12,7 @@ I am a Computer Engineer. I graduated from Aydın Adnan Menderes University. My 
 
 * **INC Teknoloji**
 
-  Junior Computer Vision Engineer, Aydın, Turkey / 2020 - 2021
+  Junior Computer Vision Engineer, Aydın, Turkey / 2019 - 2021
 
 * **JotForm**
 
