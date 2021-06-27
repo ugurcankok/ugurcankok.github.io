@@ -57,3 +57,11 @@ I am a Computer Engineer. I graduated from Aydın Adnan Menderes University. My 
 * Entrepreneurship [Certificate](https://drive.google.com/file/d/1uMxJ81tdWHkMmpkk1gZPFQ988vue9zVP/view)
 
 * Leadership [Certificate](https://drive.google.com/file/d/1neSc8SHZ7XfWf0cps3m2l5z3ql-qU50A/view)
+
+### VOLUNTARY ACTIVITIES
+
+* 2020 TEKNOFEST TÜRKÇE DOĞAL DİL İŞLEME Competition
+* 2018 ADU IEEE CS Python Instructor
+* 2018 TÜBİTAK 4007 SCRATCH STEM ile Astronomi ve Programlamaya Giriş Çocuk Bilim Festivali Öğretim Görevlisi
+* 2018 Founding Member of ADU IEEE CS and Vice President
+* 2017 ADUBILTEK (ADU Computer Science and Technology Association) Founding Vice President
