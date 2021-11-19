@@ -22,7 +22,7 @@ I am a Computer Engineer. I graduated from Aydın Adnan Menderes University. My 
 
 * **COMPUTER ENGINEERING MASTER'S DEGREE**
 
-  Natural Language Processing
+  Engineering Faculty
   
   Izmir Institute of Technology, Izmir, Turkey | 2022 Graduate
   
