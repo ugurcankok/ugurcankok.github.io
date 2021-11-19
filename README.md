@@ -16,7 +16,7 @@ I am a Computer Engineer. I graduated from Aydın Adnan Menderes University. My 
 
 * **JotForm**
 
-  Intern, Izmir, Turkey / 2019
+  Intern, Izmir, Turkey / 06.2019 - 07.2019
   
 ### EDUCATION
 
