@@ -8,27 +8,23 @@ I am a Computer Engineer. I graduated from Aydın Adnan Menderes University. My 
 
 * **KolayBi'**
 
-  Full Stack Developer, İstanbul, Turkey / 2021 - Present
+  Full Stack Developer, Istanbul, Turkey / 04.2021 - Present
 
 * **INC Teknoloji**
 
-  Junior Computer Vision Engineer, Aydın, Turkey / 2019 - 2021
+  Junior Computer Vision Engineer, Aydın, Turkey / 12.2019 - 03.2021
 
 * **JotForm**
 
-  Compulsory Summer Training, İzmir, Turkey / 2019
-
-* **Aydın Adnan Menderes University**
-
-  Compulsory Summer Training, Aydın, Turkey / 2018
+  Intern, Izmir, Turkey / 06.2019 - 07.2019
   
 ### EDUCATION
 
 * **COMPUTER ENGINEERING MASTER'S DEGREE**
 
-  Natural Language Processing
+  Engineering Faculty
   
-  İzmir Institute of Technology, İzmir, Turkey | 2022 Graduate
+  Izmir Institute of Technology, Izmir, Turkey | 2022 Graduate
   
 * **COMPUTER ENGINEERING BACHELOR'S DEGREE**
   
@@ -60,8 +56,9 @@ I am a Computer Engineer. I graduated from Aydın Adnan Menderes University. My 
 
 ### VOLUNTARY ACTIVITIES
 
-* 2020 TEKNOFEST TÜRKÇE DOĞAL DİL İŞLEME Competition
-* 2018 ADU IEEE CS Python Instructor
-* 2018 TÜBİTAK 4007 SCRATCH STEM ile Astronomi ve Programlamaya Giriş Çocuk Bilim Festivali Öğretim Görevlisi
-* 2018 Founding Member of ADU IEEE CS and Vice President
-* 2017 ADUBILTEK (ADU Computer Science and Technology Association) Founding Vice President
+* Member of Deep Learning Türkiye AI Talent Programme / 05.2020 - 11.2021
+* TEKNOFEST Turkish NLP Competition / 2020
+* Member of ADU IEEE / 08.2018 - 06.2019
+* ADU IEEE CS Python Instructor / 2018
+* TÜBİTAK 4007 SCRATCH STEM ile Astronomi ve Programlamaya Giriş Çocuk Bilim Festivali Öğretim Görevlisi / 2018
+* ADU BIL-TEK (ADU Computer Science and Technology Association) Founding Member / 2017
