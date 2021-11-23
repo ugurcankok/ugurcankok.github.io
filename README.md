@@ -56,9 +56,9 @@ I am a Computer Engineer. I graduated from Aydın Adnan Menderes University. My 
 
 ### VOLUNTARY ACTIVITIES
 
-* Member of Deep Learning Türkiye AI Talent Programme / 05.2020 - 11.2021
+* Member in Deep Learning Türkiye / 05.2020 - 11.2021 
 * TEKNOFEST 'Türkçe Doğal Dil İşleme' Competition / 07.2020 - 08.2020
-* Member of ADU IEEE / 08.2018 - 06.2019
-* ADU IEEE CS Python Instructor / 11.2018 - 01.2019
-* TUBITAK 4007 'SCRATCH STEM ile Astronomi ve Programlamaya Giriş Çocuk Bilim Festivali' Instructor / 10.2018
-* ADU BIL-TEK (ADU Computer Science and Technology Association) Founding Member / 2017
+* Member in IEEE ADU Student Branch / 08.2018 - 06.2019 
+* Python Instructor at IEEE ADU Student Branch / 11.2018 - 01.2019
+* Instructor at TUBITAK 4007 'SCRATCH STEM ile Astronomi ve Programlamaya Giriş Çocuk Bilim Festivali' / 10.2018 
+* Founding Member at ADU BIL-TEK (ADU Bilgisayar Bilimleri ve Teknolojileri Topluluğu) / 10.2017 - 06.2018
