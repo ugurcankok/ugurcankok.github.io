@@ -65,4 +65,4 @@ I am a Computer Engineer. I graduated from Aydın Adnan Menderes University. My 
 
 ### PUBLICATION
 
-* THQuAD: Turkish Historic Question Answering Dataset for Reading Comprehension [See publication](https://ieeexplore.ieee.org/abstract/document/9559013) / IEEE / 09.2021
+* THQuAD: Turkish Historic Question Answering Dataset for Reading Comprehension / [See publication](https://ieeexplore.ieee.org/abstract/document/9559013) / IEEE / 09.2021
