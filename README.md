@@ -30,7 +30,7 @@ I am a Computer Engineer. I graduated from Aydın Adnan Menderes University. My 
   
   Engineering Faculty
   
-  Aydın Adnan Menderes University, Aydın, Turkey | 2020 Graduate
+  Aydın Adnan Menderes University, Aydın, Turkey | 2020 [Graduate](https://drive.google.com/file/d/1fmo_eKi-KXyKzmJjy66PC9MSfkrf44lQ/view?usp=sharing)
   
   (Honor Student with GPA 3.40/4.00)
   
