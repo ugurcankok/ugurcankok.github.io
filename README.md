@@ -19,12 +19,6 @@ I am a Computer Engineer. I graduated from Aydın Adnan Menderes University. My 
   Intern, Izmir, Turkey / 06.2019 - 07.2019
   
 ### EDUCATION
-
-* **COMPUTER ENGINEERING MASTER'S DEGREE**
-
-  Engineering Faculty
-  
-  Izmir Institute of Technology, Izmir, Turkey | 2022 Graduate
   
 * **COMPUTER ENGINEERING BACHELOR'S DEGREE**
   
