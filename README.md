@@ -13,10 +13,6 @@ I am a Computer Engineer. I graduated from Aydın Adnan Menderes University. My 
 * **INC Teknoloji**
 
   Junior Computer Vision Engineer, Aydın, Turkey / 12.2019 - 03.2021
-
-* **JotForm**
-
-  Intern, Izmir, Turkey / 06.2019 - 07.2019
   
 ### EDUCATION
   
@@ -27,10 +23,6 @@ I am a Computer Engineer. I graduated from Aydın Adnan Menderes University. My 
   Aydın Adnan Menderes University, Aydın, Turkey | 2020 [Graduate](https://drive.google.com/file/d/1fmo_eKi-KXyKzmJjy66PC9MSfkrf44lQ/view?usp=sharing)
   
   (Honor Student with GPA 3.40/4.00)
-  
-* **HIGH SCHOOL DEGREE**
-
-  Göksu Anatolian High School, Mersin, Turkey | 2013 Graduate
   
 ### CERTIFICATIONS
 
