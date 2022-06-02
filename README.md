@@ -46,8 +46,8 @@ I am a Computer Engineer. I graduated from Aydın Adnan Menderes University. My 
 * TEKNOFEST 'Türkçe Doğal Dil İşleme' Competition / 07.2020 - 08.2020
 * Member of IEEE ADU Student Branch / 08.2018 - 06.2019 
 * Python Instructor at IEEE ADU Student Branch / 11.2018 - 01.2019
-* Instructor at TUBITAK 4007 'SCRATCH STEM ile Astronomi ve Programlamaya Giriş Çocuk Bilim Festivali' / 10.2018 
-* Founding Member at ADU BIL-TEK (ADU Bilgisayar Bilimleri ve Teknolojileri Topluluğu) / 10.2017 - 06.2018
+* Instructor at TUBITAK 4007 / 10.2018 
+* Founding Member at ADU BIL-TEK / 10.2017 - 06.2018
 
 ### PUBLICATION
 
