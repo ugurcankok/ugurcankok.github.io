@@ -8,7 +8,7 @@ I am a Computer Engineer. I graduated from Aydın Adnan Menderes University. My 
 
 * **KolayBi'**
 
-  Full Stack Developer, Istanbul, Turkey / 04.2021 - Present
+  Full Stack Developer, Istanbul, Turkey / 04.2021 - 07.2022
 
 * **INC Teknoloji**
 
