@@ -34,16 +34,6 @@ I am a Computer Engineer. I graduated from Aydın Adnan Menderes University. My 
 
 * Machine Learning [Certificate](https://drive.google.com/file/d/1hnhz0MGQeogAd-hBhKJQt8XzkPjBqPW7/view) / IEEE Turkey Computer Society / 03.2019
 
-* Body Language [Certificate](https://drive.google.com/file/d/16NJwcwXskjSBYoq0NrrWhfbryHUM99v8/view) / Adnan Menderes University / 10.2016
-
-* Career Management [Certificate](https://drive.google.com/file/d/1k7G8pYloX2F9ug8OoG1Q67-tlTWCu_uW/view) / Adnan Menderes University / 10.2016
-
-* Effective Communication [Certificate](https://drive.google.com/file/d/1X4WYq1x2-8wOoO8p8Pc3OmBJccuGaOai/view) / Adnan Menderes University / 10.2016
-
-* Entrepreneurship [Certificate](https://drive.google.com/file/d/1uMxJ81tdWHkMmpkk1gZPFQ988vue9zVP/view) / Adnan Menderes University / 10.2016
-
-* Leadership [Certificate](https://drive.google.com/file/d/1neSc8SHZ7XfWf0cps3m2l5z3ql-qU50A/view) / Adnan Menderes University / 10.2016
-
 ### VOLUNTEER EXPERIENCE
 
 * Member of Deep Learning Türkiye / 05.2020 - 05.2021 
