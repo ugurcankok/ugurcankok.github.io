@@ -36,12 +36,15 @@ I am a Computer Engineer. I graduated from Aydın Adnan Menderes University. My 
 
 ### VOLUNTEER EXPERIENCE
 
-* Member of Deep Learning Türkiye / 05.2020 - 05.2021 
-* TEKNOFEST 'Türkçe Doğal Dil İşleme' Competition / 07.2020 - 08.2020
-* Member of IEEE ADU Student Branch / 08.2018 - 06.2019 
-* Python Instructor at IEEE ADU Student Branch / 11.2018 - 01.2019
-* Instructor at TUBITAK 4007 / 10.2018 
-* Founding Member at ADU BIL-TEK / 10.2017 - 06.2018
+Member of Yazılım Köyü / 12.2021 - Present 
+
+Member of Deep Learning Türkiye / 05.2020 - 05.2021 
+
+TEKNOFEST 'Türkçe Doğal Dil İşleme' Competition / 07.2020 - 08.2020 
+
+Python Instructor at IEEE ADU Student Branch / 11.2018 - 01.2019 
+
+Instructor at TUBITAK 4007 / 10.2018
 
 ### PUBLICATION
 
