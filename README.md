@@ -1,7 +1,5 @@
 # Hello, I am Uğur Can 👨🏽‍💻
 
-I am a Computer Engineer. I graduated from Aydın Adnan Menderes University. My department was Computer Engineering. I live in İstanbul. I'm interested in artificial intelligence sub-branches.
-
 *My love of mathematics drove me towards computer engineering. I met data science thanks to my undergraduate education. I take firm steps forward in this wide-ranging journey, even if it is small.*
 
 ### EXPERIENCE
@@ -33,19 +31,3 @@ I am a Computer Engineer. I graduated from Aydın Adnan Menderes University. My 
 * Introduction to Machine Learning [Certificate](https://drive.google.com/file/d/1sVPzVhdvzlhtdAvQEbtRu2bUbYkHOUYv/view) / Global AI Hub / 03.2021
 
 * Machine Learning [Certificate](https://drive.google.com/file/d/1hnhz0MGQeogAd-hBhKJQt8XzkPjBqPW7/view) / IEEE Turkey Computer Society / 03.2019
-
-### VOLUNTEER EXPERIENCE
-
-* Member of Yazılım Köyü / 12.2021 - Present 
-
-* Member of Deep Learning Türkiye / 05.2020 - 05.2021 
-
-* TEKNOFEST 'Türkçe Doğal Dil İşleme' Competition / 07.2020 - 08.2020 
-
-* Python Instructor at IEEE ADU Student Branch / 11.2018 - 01.2019 
-
-* Instructor at TUBITAK 4007 / 10.2018
-
-### PUBLICATION
-
-* THQuAD: Turkish Historic Question Answering Dataset for Reading Comprehension / [See publication](https://ieeexplore.ieee.org/abstract/document/9559013) / IEEE / 09.2021 / Other authors => Fatih Soygazi, Okan Çiftçi, Soner Cengiz
