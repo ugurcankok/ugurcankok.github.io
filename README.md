@@ -24,10 +24,4 @@
   
   Aydın Adnan Menderes University, Aydın, Turkey | 2020 [Graduate](https://drive.google.com/file/d/1fmo_eKi-KXyKzmJjy66PC9MSfkrf44lQ/view?usp=sharing)
   
-  (Honor Student with GPA 3.40/4.00)
-  
-### CERTIFICATIONS
-
-* Introduction to Machine Learning [Certificate](https://drive.google.com/file/d/1sVPzVhdvzlhtdAvQEbtRu2bUbYkHOUYv/view) / Global AI Hub / 03.2021
-
-* Machine Learning [Certificate](https://drive.google.com/file/d/1hnhz0MGQeogAd-hBhKJQt8XzkPjBqPW7/view) / IEEE Turkey Computer Society / 03.2019
+  (Honor Student with GPA 3.40 / 4.00)
