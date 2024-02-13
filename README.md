@@ -22,4 +22,4 @@
   
   Engineering Faculty
   
-  Aydın Adnan Menderes University, Aydın, Turkey | 2016 - 2020 (https://drive.google.com/file/d/1fmo_eKi-KXyKzmJjy66PC9MSfkrf44lQ/view?usp=sharing)
+  Aydın Adnan Menderes University, Aydın, Turkey | 2016 - 2020
